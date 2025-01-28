@@ -8,12 +8,15 @@ I believe in the power of open collaboration and continuous learning. If you're 
 
 ---
 
+
 **Technologies I work with:**
 - **Backend Development**: Python, Go, Node.js
 - **Frameworks**: Next.js, Flask, Express, React.js
 - **Automation & DevOps**: Bash scripting & Docker
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Cloud Platforms**: AWS
+- **Cloud Platforms**: Azure
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugusstMorales&show_icons=true)  
 
 **Let's connect and collaborate!**  
 [LinkedIn](your-linkedin-profile) | [Email](mailto:augustodevelop.py@gmail.com)
