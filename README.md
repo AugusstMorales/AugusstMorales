@@ -9,7 +9,7 @@ I believe in the power of open collaboration and continuous learning. If you're 
 ---
 
 
-**Technologies I work with:**
+### Technologies I work with:
 - **Backend Development**: Python, Go, Node.js
 - **Frameworks**: Next.js, Flask, Express, React.js
 - **Automation & DevOps**: Bash scripting & Docker
