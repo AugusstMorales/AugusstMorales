@@ -16,7 +16,7 @@ I believe in the power of open collaboration and continuous learning. If you're 
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Cloud Platforms**: Azure
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugusstMorales&show_icons=true)  
+![](./profile-3d-contrib/profile-green-animate.svg) 
 
 **Let's connect and collaborate!**  
 [LinkedIn](your-linkedin-profile) | [Email](mailto:augustodevelop.py@gmail.com)
