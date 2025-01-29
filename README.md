@@ -19,4 +19,4 @@ I believe in the power of open collaboration and continuous learning. If you're 
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 **Let's connect and collaborate!**  
-[LinkedIn](your-linkedin-profile) | [Email](mailto:augustodevelop.py@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-profile)   [![Email](https://img.shields.io/badge/-Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:augustodevelop.py@gmail.com)
