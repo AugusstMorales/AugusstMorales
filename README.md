@@ -16,7 +16,7 @@ I believe in the power of open collaboration and continuous learning. If you're 
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Cloud Platforms**: Azure
 
-![](./profile-3d-contrib/profile-green-animate.svg) 
+![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 **Let's connect and collaborate!**  
 [LinkedIn](your-linkedin-profile) | [Email](mailto:augustodevelop.py@gmail.com)
