@@ -15,7 +15,7 @@ I believe in **clarity, efficiency, and collaboration**. Let’s build something
 - **Databases**: PostgreSQL, MongoDB, MySQL  
 - **Cloud**: Azure
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
+![](./profile-3d-contrib/profile-night-green.svg) 
 
 I’m always open to new ideas and opportunities. Let’s connect and build something impactful together.
 
