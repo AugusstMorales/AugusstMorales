@@ -22,7 +22,7 @@ I’m always open to new ideas and opportunities. Let’s connect and build some
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-profile)
 [![Email](https://img.shields.io/badge/-Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:augustodevelop.py@gmail.com)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/?xmt=AQGzIx53ukD38TWzMQ4WWRLSLeaHWSumrHuPIgxC1w19UEg)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](your-youtube-channel)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
 
 
 
