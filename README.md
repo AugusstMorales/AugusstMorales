@@ -1,4 +1,4 @@
-# Hello, I’m Augusto 👋 
+# Hello, I’m Augusst 👋 
 
 I craft **scalable, efficient backend systems** with a focus on **performance, simplicity, and clean architecture**. My work is driven by a passion for creating solutions that are not only robust but also elegant and easy to maintain.
 
