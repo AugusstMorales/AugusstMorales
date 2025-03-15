@@ -1,19 +1,22 @@
-# Hello, I’m Augusst  
+# Hello, I’m Augusto 👋 
 
-I build **scalable, efficient backend systems**. With expertise in **Python, Go, and Next.js**, I focus on performance, maintainability, and clean architecture. I design systems that are not only robust but also easy to scale and optimize.
+I craft **scalable, efficient backend systems** with a focus on **performance, simplicity, and clean architecture**. My work is driven by a passion for creating solutions that are not only robust but also elegant and easy to maintain.
 
-On [**GitHub**](https://github.com/AugusstMorales), you'll find a collection of projects that reflect my approach to **backend engineering, automation, and system optimization**. Each project is crafted with **quality, simplicity, and long-term maintainability** in mind.  
-
-I believe in **clarity, efficiency, and collaboration**. Let’s build something meaningful. Feel free to **fork, contribute, or connect**.
+``` bash
+~> finger augusto  
+Login: Augusto                           Name: Augusto Morales  
+Directory: /home/augusto                 Shell: /usr/bin/zsh  
+Project:  
+  - Building scalable backend systems  
+  - Automating workflows with precision  
+  - Exploring the elegance of macOS and Linux  
+Plan:  
+  Learning \o/  
 
 ---
 
-### **Tech Stack**  
-- **Backend**: Python, Go, Node.js  
-- **Frameworks**: Flask, FastAPI, Next.js  
-- **Automation & DevOps**: Bash, Docker, CI/CD  
-- **Databases**: PostgreSQL, MongoDB, MySQL  
-- **Cloud**: Azure
+
+``` 
 
 ![](./profile-3d-contrib/profile-night-green.svg) 
 
