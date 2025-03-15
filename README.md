@@ -7,7 +7,7 @@ I craft **scalable, efficient backend systems** with a focus on **performance, s
 Login: augusto                           Name: Augusto Morales  
 Directory: /home/augusto                 Shell: /usr/bin/zsh  
 Last login: Fri Oct 20 14:30:00 2023 from 192.168.1.1  
-Mail: mail@augustomorales.com            Plan: Learning \o/
+Mail: augustodevelop.py@gmail.com        Plan: Learning \o/
 
 ---
 
