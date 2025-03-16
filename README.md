@@ -1,6 +1,6 @@
 # Hello, I’m Augusst 👋 
 
-I craft **scalable, efficient backend systems** with a focus on **performance, simplicity, and clean architecture**. My work is driven by a passion for creating solutions that are not only robust but also elegant and easy to maintain.
+I’m diving into backend development with a passion for Linux, Python, and modern tools like Docker and Kubernetes. My goal? To build scalable, efficient systems that prioritize performance and clean architecture while keeping things simple and maintainable.
 
 ``` bash
 
@@ -28,9 +28,9 @@ Mail: augustodevelop.py@gmail.com        Plan: On my coding journey \o/
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
 
-If you find this project interesting or useful, feel free to **fork it**, **contribute**, or **leave a star** ⭐️. Your support helps me continue building tools that combine **simplicity, elegance, and innovation**.
+If you’re excited by my journey or want to collaborate, feel free to **fork**, **contribute**, or **leave a star** ⭐️ on my projects. Your support drives me to build tools that blend **simplicity, elegance, and innovation**.  
 
-Let’s create something meaningful together. 🚀
+Let’s code something awesome together. 🚀
 
 ![](./profile-3d-contrib/profile-night-green.svg) 
 
