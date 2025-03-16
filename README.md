@@ -21,10 +21,7 @@ Mail: augustodevelop.py@gmail.com        Plan: On my coding journey \o/
 ```
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-morales)
-[![Email](https://img.shields.io/badge/-Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:augustodevelop.py@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/AugusstMorales)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/augustomorales)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/augusst_morales)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
 
