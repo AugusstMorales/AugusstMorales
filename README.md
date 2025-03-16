@@ -24,6 +24,7 @@ Mail: augustodevelop.py@gmail.com        Plan: On my coding journey \o/
 [![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/AugusstMorales)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
+![](https://komarev.com/ghpvc/?username=AugusstMorales&color=brightgreen)
 
 If you’re excited by my journey or want to collaborate, feel free to **fork**, **contribute**, or **leave a star** ⭐️ on my projects. Your support drives me to build tools that blend **simplicity, elegance, and innovation**.  
 
