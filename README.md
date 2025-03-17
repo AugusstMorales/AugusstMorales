@@ -20,7 +20,7 @@ Mail: augustodevelop.py@gmail.com        Plan: On my coding journey \o/
 
 ```
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/augusto-morales)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusstmorales/)
 [![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/AugusstMorales)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
