@@ -17,13 +17,10 @@ Mail: augustodevelop.py@gmail.com        Plan: Exploring the art of code \o/
 
 ```
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusstmorales/)
-[![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/AugusstMorales)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/AugusstMorales)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/augusstmorales.bsky.social)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/AugusstMorales)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
 ![](https://komarev.com/ghpvc/?username=AugusstMorales&color=brightgreen)
 
 If this journey inspires you, join me. Fork a project, contribute an idea, or leave a star to fuel the spark.
