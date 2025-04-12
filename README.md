@@ -1,6 +1,6 @@
 # Hello, I’m Augusst 👋 
 
-I’m diving into backend development with a passion for Linux, Python, and modern tools like Docker and Kubernetes. My goal? To build scalable, efficient systems that prioritize performance and clean architecture while keeping things simple and maintainable.
+I'm a Terminal user, creating my world in Fedora with the elegant simplicity of Qtile. I'm not an expert yet, but I'm an explorer, learning day by day with the art of ShellScripting, Python, Lua, and Go. My philosophy? Pushing software to its limits, not just for perfection, but for discovery.
 
 ``` bash
 
@@ -29,9 +29,7 @@ Mail: augustodevelop.py@gmail.com        Plan: On my coding journey \o/
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
 ![](https://komarev.com/ghpvc/?username=AugusstMorales&color=brightgreen)
 
-If you’re excited by my journey or want to collaborate, feel free to **fork**, **contribute**, or **leave a star** ⭐️ on my projects. Your support drives me to build tools that blend **simplicity, elegance, and innovation**.  
-
-Let’s code something awesome together. 🚀
+If this journey inspires you, join me. Fork a project, contribute an idea, or leave a star to fuel the spark.
 
 ![](./profile-3d-contrib/profile-night-green.svg) 
 
