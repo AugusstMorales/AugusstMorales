@@ -2,21 +2,18 @@
 
 I'm a Terminal user, creating my world in Fedora with the elegant simplicity of Qtile. I'm not an expert yet, but I'm an explorer, learning day by day with the art of ShellScripting, Python, Lua, and Go. My philosophy? Pushing software to its limits, not just for perfection, but for discovery.
 
-``` bash
+``` zsh
 
-~> finger augusto  
-Login: augusto                           Name: Augusto Morales  
-Directory: /home/augusto                 Shell: /usr/bin/zsh  
-Last login: Sun Mar 16 10:00:00 2025 from 192.168.1.100  
-Mail: augustodevelop.py@gmail.com        Plan: On my coding journey \o/
+~> whoami
+augusstmorales
+
+~> finger augusstmorales
+Login: augusstmorales                    Name: Augusto Morales
+Directory: /home/augusstmorales          Shell: /bin/zsh
+Last login: Fri Apr 11 20:31:00 2025 from 192.168.1.42
+Mail: augustodevelop.py@gmail.com        Plan: Exploring the art of code \o/
 
 ---
-
-~> cat ~/.plan  
-- Mastering Linux and its terminal with Fedora.  
-- Building Python skills from the ground up.  
-- Diving into Docker and Kubernetes step by step.  
-- Aiming to explore GraphQL and contribute to open-source soon.
 
 ```
 
