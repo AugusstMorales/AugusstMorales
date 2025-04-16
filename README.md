@@ -25,6 +25,6 @@ Mail: augustodevelop.py@gmail.com        Plan: Exploring the art of code \o/
 
 If this journey inspires you, join me. Fork a project, contribute an idea, or leave a star to fuel the spark.
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
+![](./profile-3d-contrib/profile-night-view.svg) 
 
 
