@@ -1,6 +1,4 @@
-# Hello, I’m Augusst 👋 
 
-I'm a Terminal user, creating my world in Fedora with the elegant simplicity of Qtile. I'm not an expert yet, but I'm an explorer, learning day by day with the art of ShellScripting, Python, Lua, and Go. My philosophy? Pushing software to its limits, not just for perfection, but for discovery.
 
 ``` zsh
 
