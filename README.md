@@ -1,24 +1,27 @@
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/AugusstMorales)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AugusstMorales)
-![](https://komarev.com/ghpvc/?username=AugusstMorales&style=plastic&color=dc143c)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusstmorales/)
+![](https://komarev.com/ghpvc/?username=AugusstMorales&style=flat&color=FE9A10)
+
+
+
 
 ``` zsh
-
 ~> whoami
 augusstmorales
 
 ~> finger augusstmorales
-Login: augusstmorales                    Name: Augusto Morales
-Directory: /home/augusstmorales          Shell: /bin/zsh
+Login: augusstmorales              Name: Augusto Morales
+Directory: /home/augusstmorales    Shell: /bin/zsh
 Last login: Sat Apr 26 20:31:00 2025 from 192.168.1.42
-Mail: augustodevelop.py@gmail.com        Plan: Exploring the art of code \o/
+Mail: augustodevelop.py@gmail.com
+Focus: Building elegant systems with clarity.
 
 ---
 
 ~> echo $PLAN
-Creating in Python, Lua and Go with precision.
+Create. Refine. Evolve. — Python · Lua · Go
+
 
 ```
 
