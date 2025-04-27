@@ -13,6 +13,9 @@ Mail: augustodevelop.py@gmail.com        Plan: Exploring the art of code \o/
 
 ---
 
+~> echo $PLAN
+Crafting Python, Lua, Go
+
 ```
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/AugusstMorales)
