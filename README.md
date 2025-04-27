@@ -31,6 +31,5 @@ Create. Refine. Evolve. — Python · Lua · Go
 
 If you see something that sparks interest, let's create something great together.
 
-![](./profile-3d-contrib/profile-gitblock.svg) 
 
 
