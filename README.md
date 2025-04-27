@@ -1,4 +1,4 @@
-![Profile Banner](Profile_banner.png)
+# Hello, I’m Augusst 👋🏼
 
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
