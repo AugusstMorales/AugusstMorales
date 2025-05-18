@@ -1,6 +1,11 @@
-# Hello, I’m Augusst 👋🏼
+# Hello everyone! 👋🏼
 
-Developer. Researcher. Designer. Building the future with simplicity.
+*I’m August — a Software Engineer* • *Digital Designer* • *Motorsport Lover*
+<br>
+
+*A quote that inspires me—often attributed to Steve Jobs, but originally from Leonardo da Vinci—is:* **"Simplicity is the ultimate sophistication."**.
+
+
 
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
 [![Instagram](https://img.shields.io/badge/-Instagram-a6001f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
