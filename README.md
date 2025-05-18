@@ -8,8 +8,10 @@
 
 
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@augusst_morales)
-[![Instagram](https://img.shields.io/badge/-Instagram-a6001f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/augusst_morales/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusstmorales/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=instagram&logoColor=000000)](https://www.instagram.com/augusst_morales/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusstmorales/)
+
+
 ![](https://komarev.com/ghpvc/?username=AugusstMorales&style=flat&color=BD6D00)
 
 
