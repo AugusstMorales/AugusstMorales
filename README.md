@@ -18,21 +18,18 @@
 
 
 ``` zsh
-~> whoami
+MacBook-Pro ~ % whoami
 augusstmorales
 
-~> finger augusstmorales
+MacBook-Pro ~ % finger augusstmorales
 Login: augusstmorales              Name: Augusto Morales
-Directory: /home/augusstmorales    Shell: /bin/zsh
+Directory: /Users/augusstmorales   Shell: /bin/zsh
 Last login: Sat Apr 26 20:31:00 2025 from 192.168.1.42
 Mail: augustodevelop.py@gmail.com
 Focus: Building elegant systems with clarity.
 
----
-
-~> echo $PLAN
+MacBook-Pro ~ % echo $PLAN
 Create. Refine. Evolve. — Python · Lua · Go
-
 
 ```
 
