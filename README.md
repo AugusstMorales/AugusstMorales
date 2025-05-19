@@ -29,7 +29,7 @@ Mail: augustodevelop.py@gmail.com
 Focus: Building elegant systems with clarity.
 
 MacBook-Pro ~ % echo $PLAN
-Create. Refine. Evolve. — Python · Lua · Go
+Create. Refine. Evolve. — Python · Lua · Go · Node.JS
 
 ```
 
