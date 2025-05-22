@@ -3,7 +3,7 @@
 *I’m August — a Software Engineer* • *Digital Designer* • *Motorsport Lover*
 <br>
 
-*A quote that inspires me—often attributed to Steve Jobs, but originally from Leonardo da Vinci—is:* **"Simplicity is the ultimate sophistication."**.
+*Inspired by a timeless principle:* **"Simplicity is the ultimate sophistication."**.
 
 
 
