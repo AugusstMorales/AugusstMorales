@@ -3,7 +3,7 @@
 *I’m August — a Software Engineer* • *Digital Designer* • *Motorsport Lover*
 <br>
 
-*Inspired by a timeless principle:* **"Simplicity is the ultimate sophistication."**.
+*Inspired by a timeless principle:* **"Simplicity is the ultimate sophistication."** *— Leonardo da Vinci*.
 
 
 
